@@ -1,0 +1,14 @@
+{
+  "name": "controle-de-ponto",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento de Controle de Ponto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vercel": "^34.2.2"
+  }
+}
